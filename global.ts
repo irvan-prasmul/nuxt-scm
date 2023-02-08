@@ -1,0 +1,5 @@
+const textGlobal = () => {
+  alert("from global");
+};
+
+// const API_BASE_URL=process.env
